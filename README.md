@@ -1,6 +1,13 @@
 ## Getting Started
-> This is the first app of the course
+> In this app I learn the basics
 
 <a href="https://ivan006.github.io/Udemy-Practice-VueJS-App/Getting-Started">Click here</a>
 
-It is a simple widget
+The app is a kind of keystroke detector thing.
+
+## More to come
+> Lots to learn!
+
+<a href="#">Link coming soon</a>
+
+Lots to create!
