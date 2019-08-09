@@ -29,7 +29,7 @@ Have a look to see what I did!
 ## fontpicker-vue
 > Here I learn how to use Google's font API.
 
-<a href="/Udemy-Practice-VueJS-App/fontpicker-vue">Click here</a>
+<a href="/Udemy-Practice-VueJS-App/fontpicker-vue/public">Click here</a>
 
 Select a font!
 
