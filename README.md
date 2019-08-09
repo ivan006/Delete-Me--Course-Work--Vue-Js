@@ -19,6 +19,13 @@ This project basically just demonstrates my ability.
 
 Have a look to see what I did!
 
+## Ch.-7-Crafty-Components
+> Here I learn about components!
+
+<a href="/Udemy-Practice-VueJS-App/Ch.-7-Crafty-Components">Link coming soon</a>
+
+The app here is built using components.
+
 ## More to come
 > Lots to learn!
 
