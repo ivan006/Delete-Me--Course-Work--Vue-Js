@@ -26,7 +26,7 @@ The app here is built using components.
 
 Have a look to see what I did!
 
-## More to come
+## fontpicker-vue
 > Here I learn how to use Google's font API.
 
 <a href="/Udemy-Practice-VueJS-App/fontpicker-vue">Click here</a>
