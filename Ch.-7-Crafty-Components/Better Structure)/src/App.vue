@@ -1,13 +1,13 @@
 <template>
     <div class="container">
-        <Header></Header>
+        <app-header></app-header>
         <hr>
         <div class="row">
-            <Servers></Servers>
-            <ServerDetails></ServerDetails>
+            <servers></servers>
+            <app-server-details></app-server-details>
         </div>
         <hr>
-        <Footer></Footer>
+        <app-footer></app-footer>
     </div>
 </template>
 
@@ -19,10 +19,10 @@
 
     export default {
         components: {
-            Header,
+            appHeader: Header,
             Servers,
-            ServerDetails,
-            Footer
+            'app-server-details': ServerDetails,
+            'app-footer': Footer
         }
     }
 </script>
